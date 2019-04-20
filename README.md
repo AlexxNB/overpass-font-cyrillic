@@ -7,7 +7,7 @@ Developing tool: [Gliphr Studio](http://glyphrstudio.com/)
 #Progress
 
 ## Overpass Thin - 100
-- [ ] Uppercase
+- [x] Uppercase
 - [ ] Lowercase
 
 ## Overpass Extralight - 200
