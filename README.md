@@ -1,10 +1,10 @@
 # overpass-font-cyrillic
 Cyrillic version of the RedHat's Overpass font
 
-#Contribution
+# Contribution
 Developing tool: [Gliphr Studio](http://glyphrstudio.com/)
 
-#Progress
+# Progress
 
 ## Overpass Thin - 100
 - [x] Uppercase
