@@ -8,7 +8,7 @@ Developing tool: [Gliphr Studio](http://glyphrstudio.com/)
 
 ## Overpass Thin - 100
 - [x] Uppercase
-- [ ] Lowercase
+- [x] Lowercase
 
 ## Overpass Extralight - 200
 - [x] Uppercase
