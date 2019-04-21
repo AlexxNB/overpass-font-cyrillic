@@ -22,6 +22,10 @@ Developing tool: [Gliphr Studio](http://glyphrstudio.com/)
 - [ ] Uppercase
 - [ ] Lowercase
 
-## Overpass Bold - 700
+## Overpass Semibold - 600
 - [ ] Uppercase
 - [ ] Lowercase
+
+## Overpass Bold - 700
+- [x] Uppercase
+- [x] Lowercase
