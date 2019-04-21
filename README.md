@@ -15,13 +15,13 @@ Developing tool: [Gliphr Studio](http://glyphrstudio.com/)
 - [ ] Lowercase
 
 ## Overpass Light - 300
-- [ ] Uppercase
-- [ ] Lowercase
+- [x] Uppercase
+- [x] Lowercase
 
 ## Overpass Regular - 400
 - [ ] Uppercase
 - [ ] Lowercase
 
-## Overpass Regular - 700
+## Overpass Bold - 700
 - [ ] Uppercase
 - [ ] Lowercase
