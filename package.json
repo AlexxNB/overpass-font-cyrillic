@@ -1,0 +1,23 @@
+{
+  "name": "overpass-font-cyrillic",
+  "version": "1.0.0",
+  "description": "Cirillic version of the RedHat's Overpass Font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexxNB/overpass-font-cyrillic.git"
+  },
+  "author": "Alexey Schebelev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexxNB/overpass-font-cyrillic/issues"
+  },
+  "homepage": "https://github.com/AlexxNB/overpass-font-cyrillic#readme",
+  "devDependencies": {
+    "canvas": "^2.4.1",
+    "shelljs": "^0.8.3"
+  }
+}
