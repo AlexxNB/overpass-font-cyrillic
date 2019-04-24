@@ -8,9 +8,13 @@ steps:
       - apt-get update && apt-get install -y python3
       - npm install
       - npm run build
+    when:
+      event: tag
   - name: publish releases
     image: plugins/github-release
     settings:
       api_key:
         from_secret: github_api_key
       files: __fonts/*
+    when:
+      event: tag
