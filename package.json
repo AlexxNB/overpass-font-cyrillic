@@ -1,6 +1,6 @@
 {
   "name": "overpass-font-cyrillic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Cirillic version of the RedHat's Overpass Font",
   "main": "index.js",
   "scripts": {
