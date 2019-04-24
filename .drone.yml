@@ -1,0 +1,15 @@
+kind: pipeline
+name: fonts-deploy
+
+steps:
+  - name: build fonts  
+    image: node:10.15-alpine
+    commands:
+      - npm install
+      - npm run build
+  - name: publish releases
+    image: plugins/github-release
+    settings:
+      api_key:
+        from_secret: github_api_key
+      files: __fonts/*

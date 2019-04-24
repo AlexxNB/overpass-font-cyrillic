@@ -31,9 +31,10 @@ Gliphr projects files can be found in the `src` directory. They can be edited on
 
 # Build
 
-Run npm script:
+Run these commands:
 
 ```bash
+npm install
 npm run build
 ```
 After, you'll find builded `svg`,`ttf` and `woff2` files in the `__fonts` directory.
