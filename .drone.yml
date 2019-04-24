@@ -3,9 +3,8 @@ name: fonts-deploy
 
 steps:
   - name: build fonts  
-    image: node:10.15-alpine
+    image: node:10.15-slim
     commands:
-      - apk add --no-cache make gcc g++ python git
       - npm install
       - npm run build
   - name: publish releases
