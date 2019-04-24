@@ -5,7 +5,7 @@ steps:
   - name: build fonts  
     image: node:10.15-slim
     commands:
-      - apt install python
+      - apt-get update && apt-get install python3
       - npm install
       - npm run build
   - name: publish releases
