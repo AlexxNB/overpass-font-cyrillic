@@ -5,8 +5,7 @@ steps:
   - name: build fonts  
     image: node:10.15-alpine
     commands:
-      - apk add python3
-      - apk add git
+      - apk add --no-cache make gcc g++ python git
       - npm install
       - npm run build
   - name: publish releases
