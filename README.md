@@ -1,5 +1,13 @@
-# overpass-font-cyrillic
+# Overpass Cyr
+
 Cyrillic version of the RedHat's Overpass font
+
+# Download fonts
+
+You can download letest builded fonts in the [Releases](https://github.com/AlexxNB/overpass-font-cyrillic/releases) page. 
+* Formats: `svg`,`ttf`,`woff2` 
+* Styles: `thin`, `Light`, `Semibold`, `Bold`
+
 
 # Progress
 
