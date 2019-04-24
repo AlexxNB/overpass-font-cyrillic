@@ -18,6 +18,8 @@
   "homepage": "https://github.com/AlexxNB/overpass-font-cyrillic#readme",
   "devDependencies": {
     "canvas": "^2.4.1",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.3",
+    "svg2ttf": "^4.2.0",
+    "wawoff2": "^1.0.2"
   }
 }
